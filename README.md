@@ -61,7 +61,7 @@ cvbnmk
 ## image inserting
 ![image](https://github.com/DSaitejaswini/day2markdown/blob/master/image1.ghh.jpg)
 ## inserting videos 
-[![vedio](https://img.youtube.com/vi/LaFtAcIrGWA/0.jpg)](https://www.youtube.com/watch?v=h5WN3pkxPF0)
+[![vedio](https://img.youtube.com/vi/LaFtAcIrGWA/0.jpg)](https://www.youtube.com/watch?v=mwLS3z3RZGg)
 
 
 

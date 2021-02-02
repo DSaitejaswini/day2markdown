@@ -33,3 +33,13 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
     2. mech b
 4. civil
 5. eee
+## unordered list
+- cse
+- ece
+- mech
+    * mech a
+    * mech b
+- civil
+    * civil a
+    * civil b
+- eee    
